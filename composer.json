@@ -1,0 +1,10 @@
+{
+    "name": "gtasneem/demopackage1",
+    "authors": [
+        {
+            "name": "Tasneem Gangardiwala",
+            "email": "tasneem.g@digitalroominc.com"
+        }
+    ],
+    "require": {}
+}
